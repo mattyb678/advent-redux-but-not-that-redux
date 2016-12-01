@@ -1,4 +1,4 @@
-# advent-redux-but-not-that-redux
+# aoc
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar advent-redux-but-not-that-redux-0.1.0-standalone.jar [args]
+    $ java -jar aoc-0.1.0-standalone.jar [args]
 
 ## Options
 

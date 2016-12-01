@@ -1,4 +1,4 @@
-(ns advent-redux-but-not-that-redux.core
+(ns aoc.core
   (:gen-class))
 
 (defn -main
